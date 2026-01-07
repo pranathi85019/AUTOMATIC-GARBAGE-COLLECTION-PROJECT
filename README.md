@@ -1,0 +1,2 @@
+# AUTOMATIC-GARBAGE-COLLECTION-PROJECT
+PROJECT based on garbage collection
